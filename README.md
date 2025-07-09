@@ -22,6 +22,8 @@ UrduWhiz solves this by combining state-of-the-art OCR, semantic search, and gen
 - **Session Management:** Users can manage multiple chat sessions, revisit previous conversations, and delete sessions as needed.
 
 ---
+![image](https://github.com/user-attachments/assets/37704e0a-57aa-4bd5-b403-243b8466d8ae)
+
 
 ## Features
 
