@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.env
+.env
+.venv/
+venv/
+my_venv/
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build output
+dist/
+build/
+*.log
+
+# Frontend assets (optional, if built files are generated)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Others
+*.bak
+*.swp
+*.tmp
