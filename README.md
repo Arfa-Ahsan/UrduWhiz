@@ -59,7 +59,6 @@ UrduWhiz solves this by combining state-of-the-art OCR, semantic search, and gen
 | AI/ML      | Google Gemini (OCR & LLM), HuggingFace, SentenceTransformers |
 | Database   | MongoDB (sessions), Qdrant (vector search)    |
 | Auth       | JWT, OAuth2, Email Verification               |
-| DevOps     | Docker-ready, .env configuration              |
 
 ---
 
